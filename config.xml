@@ -96,7 +96,7 @@
 	<gap:plugin name="cordova-plugin-device"  source="npm"/>
 	<gap:plugin name="cordova-plugin-splashscreen"  source="npm"/>
 	<gap:plugin name="cordova-plugin-statusbar"  source="npm"/>
-	<gap:plugin name="cordova-plugin-screenorientation"  source="npm"/>
+	<gap:plugin name="cordova-plugin-screen-orientation"  source="npm"/>
 	
 	<gap:config-file platform="ios" parent="UIStatusBarHidden">
 		<true/>
