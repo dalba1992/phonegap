@@ -64,6 +64,7 @@
         <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     -->
 
+    <icon src="res/icon/ios/icon-40.png" gap:platform="ios" width="40" height="40" />
 	<icon src="res/icon/ios/icon-57.png" gap:platform="ios" width="57" height="57" />
 	<icon src="res/icon/ios/icon-72.png" gap:platform="ios" width="72" height="72" />
 	<icon src="res/icon/ios/icon-114.png" gap:platform="ios" width="114" height="114" />
