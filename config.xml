@@ -84,6 +84,10 @@
 	<gap:splash src="res/screen/ios/screen-640x960_.png" gap:platform="ios" width="640" height="960" />
 	<!--<gap:splash src="res/screen/screen-iphone-landscape-2x.png" gap:platform="ios" width="960" height="640" />-->
 	<gap:splash src="res/screen/ios/screen-640x1136_.png" gap:platform="ios" width="640" height="1136" />
+
+    <gap:splash src="res/screen/ios/screen-750x1334_.png" gap:platform="ios" width="750" height="1334"/>
+    <gap:splash src="res/screen/ios/screen-1242x2208_.png" gap:platform="ios" width="1242" height="2208"/>
+    
 	<!--<gap:splash src="res/screen/ios/screen-ipad-portrait.png" gap:platform="ios" width="768" height="1024 " />
 	<gap:splash src="res/screen/ios/screen-ipad-landscape.png" gap:platform="ios" width="1024" height="768" />
 	<gap:splash src="res/screen/ios/screen-ipad-portrait-2x.png" gap:platform="ios" width="1536" height="2008" />
